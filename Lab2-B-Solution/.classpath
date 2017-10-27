@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/weichenwang/Desktop/Patrick/Lab2/Externalisation_ClientServer_XML_JSON/jackson-all-1.9.11.jar"/>
+	<classpathentry kind="lib" path="/Users/weichenwang/Desktop/Patrick/Lab2/Externalisation_ClientServer_XML_JSON/jersey-bundle-1.17.1.jar"/>
+	<classpathentry kind="lib" path="/Users/weichenwang/Desktop/Patrick/Lab2/Externalisation_ClientServer_XML_JSON/asm-3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
