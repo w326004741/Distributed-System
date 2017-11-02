@@ -1,0 +1,33 @@
+{
+  "orderNumber" : "55522-BABA",
+  "orderDate" : "3488-12-21Z",
+  "shipTo" : {
+    "country" : "Ireland",
+    "name" : "John Doe",
+    "street" : "123 Castle Road",
+    "city" : "Oranmore",
+    "county" : "Galway"
+  },
+  "billTo" : {
+    "country" : "Ireland",
+    "name" : "John Doe",
+    "street" : "123 Castle Road",
+    "city" : "Oranmore",
+    "county" : "Galway"
+  },
+  "items" : {
+    "item" : [ {
+      "partNumber" : "123ABC",
+      "productName" : "11ft Trout Fly Road",
+      "quantity" : 1,
+      "price" : 250.00,
+      "shipDate" : "3488-12-21Z"
+    }, {
+      "partNumber" : "177AAA",
+      "productName" : "14ft Salmon Fly Road",
+      "quantity" : 1,
+      "price" : 450.00,
+      "shipDate" : "3488-12-21Z"
+    } ]
+  }
+}

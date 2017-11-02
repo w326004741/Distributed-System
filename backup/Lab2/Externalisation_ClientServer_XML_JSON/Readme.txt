@@ -1,0 +1,1 @@
+To get the JSON Marshalling to work, you need to add the .jar files from the "XML and JSON Data Binding with JAXB" lab to the build path in eclipse.

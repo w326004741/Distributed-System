@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<purchaseOrder orderNumber="55522-BABA" orderDate="3488-12-21Z" xmlns:ns2="http://sw.gmit.ie/ds/">
+    <ns2:shipTo country="Ireland">
+        <ns2:name>John Doe</ns2:name>
+        <ns2:street>123 Castle Road</ns2:street>
+        <ns2:city>Oranmore</ns2:city>
+        <ns2:county>Galway</ns2:county>
+    </ns2:shipTo>
+    <ns2:billTo country="Ireland">
+        <ns2:name>John Doe</ns2:name>
+        <ns2:street>123 Castle Road</ns2:street>
+        <ns2:city>Oranmore</ns2:city>
+        <ns2:county>Galway</ns2:county>
+    </ns2:billTo>
+    <ns2:items>
+        <ns2:item partNumber="123ABC">
+            <ns2:productName>11ft Trout Fly Road</ns2:productName>
+            <ns2:quantity>1</ns2:quantity>
+            <ns2:price>250.00</ns2:price>
+            <ns2:shipDate>3488-12-21Z</ns2:shipDate>
+        </ns2:item>
+        <ns2:item partNumber="177AAA">
+            <ns2:productName>14ft Salmon Fly Road</ns2:productName>
+            <ns2:quantity>1</ns2:quantity>
+            <ns2:price>450.00</ns2:price>
+            <ns2:shipDate>3488-12-21Z</ns2:shipDate>
+        </ns2:item>
+    </ns2:items>
+</purchaseOrder>
